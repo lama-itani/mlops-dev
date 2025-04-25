@@ -1,4 +1,4 @@
-# Data Project Template
+# MLOps Demo
 
 <a target="_blank" href="https://www.cloudera.com/">
     <img src="https://img.shields.io/badge/Cloudera-Project%20Template-FFA500">
